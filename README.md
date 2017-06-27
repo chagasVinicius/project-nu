@@ -1,6 +1,6 @@
-# project-nu
+# project
 
-This is the project-nu, a RESTful web service with the basic features for one or more checking accounts. The solution uses the basic architecture of a REST Web application, using the commons HTTP request verbs to:
+This is the project, a RESTful web service with the basic features for one or more checking accounts. The solution uses the basic architecture of a REST Web application, using the commons HTTP request verbs to:
 
 - POST an operation on a checking account
 ```
