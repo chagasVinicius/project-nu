@@ -1,6 +1,6 @@
-# project
+# project-nu
 
-This is the project, a RESTful web service with the basic features for one or more checking accounts. The solution uses the basic architecture of a REST Web application, using the commons HTTP request verbs to:
+This is the project-nu, a RESTful web service with the basic features for one or more checking accounts. The solution uses the basic architecture of a REST Web application, using the commons HTTP request verbs to:
 
 - POST an operation on a checking account
 ```
@@ -50,7 +50,7 @@ To follow the **running tutorial** you will need to:
 
 ## Running tutorial
 
-After the download of the source code, in the project directory, you can start the application using:
+After the download of the source code, in the project-nu directory, you can start the application using:
 
 - The **lein run** command
 ```
