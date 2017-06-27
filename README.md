@@ -38,7 +38,7 @@ When the user add a new operation, the software checks if the new operation has 
 {:id-acc ID, :op-id ID,  :type-op ('debit' or 'credit'),  :desc (description),
  :amount (value), :date (date)}
 ```
-Each operation is added to your respective account ref. Then, the project-nu can work directly with the account. All the other commands to an account, such as GET "/account-balance", just need the account ID to be run. 
+Each operation is added to your respective account ref. Then, the project can work directly with the account. All the other commands to an account, such as GET "/account-balance", just need the account ID to be run. 
 
 
 ## Prerequisites
@@ -60,7 +60,7 @@ lein run
 ```
 lein uberjar
 ```
-and run in the *project-nu/target* directory
+and run in the *project/target* directory
 
 ```
 java -jar project-nu-0.1.0-SNAPSHOT-standalone.jar
